@@ -1,10 +1,11 @@
 # E-Commerce Website Clone 🛒
 
 This is a full-featured E-commerce Website Clone built using React.js as part of an internship program provided by iNeuron. The project simulates an online shopping platform where users can browse products, filter by category, add items to a cart, and proceed through checkout to place an order.
-## Table of Contents
 
 # Deploy Link
 https://ecommerceclonewebsite.netlify.app/
+
+## Table of Contents
 
 - [Features](#features)
 - [TechnologiesUsed](#TechnologiesUsed)
